@@ -16,7 +16,6 @@
     <td>In the process</td>
   </tr>
   </table>
-<h3> Achivements</h3> 
 
   
   
