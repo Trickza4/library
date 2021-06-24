@@ -6,11 +6,17 @@
   <tr>
     <th>Id</th>
     <th>Name</th>
-    <th>read</th>
-    <th>in the process of reading</th>
-    <th>Postponed</th>
+    <th>Author</th>
+    <th>Staus</th>
   </tr>
   <tr>
     <td>1</td>
+    <td>Язык программирования C++. Базовый курс (5-е издание)</td>
+    <td>Стенли Б. Липпман, Жози Лажойе, Барбара Э. Му</td>
+    <td>In the process</td>
+  </tr>
   </table>
+<h3> Achivements</h3> 
+
+  
   
